@@ -1,0 +1,9 @@
+[package]
+name = "minesweeper-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.13"
+glob = "*"
+base64="*"
